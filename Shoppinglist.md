@@ -2,6 +2,6 @@
 - eggs
 - sausage
 - milk
-- bread 
+- cake 
 - more bananas for Cosmo 
 - more fruits and vegetables
