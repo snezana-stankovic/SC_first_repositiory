@@ -2,6 +2,6 @@
 - eggs
 - sausage
 - milk
-- bread 
+- whole grain bread 
 - more bananas for Cosmo 
 - more fruits and vegetables
