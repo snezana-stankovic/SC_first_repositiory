@@ -1,7 +1,7 @@
 #my shopping list
 - eggs
 - sausage
-- milk
-- whole grain bread 
+- milk 
+- cake 
 - more bananas for Cosmo 
 - more fruits and vegetables
