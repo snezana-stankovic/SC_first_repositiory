@@ -7,3 +7,6 @@
 - more fruits and vegetables
 - pasta
 - toothpaste
+- chocolate
+- water
+
