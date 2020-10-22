@@ -3,3 +3,4 @@
 - groceries
 - send a postcard to a friend
 - meeting with the supervisor on Wednesday at 13h
+- call a friend
