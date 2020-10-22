@@ -5,3 +5,5 @@
 - cake 
 - more bananas for Cosmo 
 - more fruits and vegetables
+- chocolate
+- water
