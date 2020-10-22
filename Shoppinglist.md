@@ -4,3 +4,4 @@
 - milk
 - bread 
 - more bananas for Cosmo 
+- more fruits and vegetables
