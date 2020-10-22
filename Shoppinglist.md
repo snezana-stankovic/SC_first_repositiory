@@ -3,3 +3,5 @@
 - eggs
 - sausage
 - milk
+- bread 
+- more bananas for Cosmo 
